@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Pourya Mansouri</title>
+  <desc id="desc">Computer science student and software developer. A dark blue banner with teal accents and an abstract code window.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1525" />
+      <stop offset="1" stop-color="#152c3c" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4" />
+      <stop offset="1" stop-color="#7dd3fc" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#background)" />
+  <path d="M800 0H1200V280H1020Z" fill="#203b4b" opacity=".22" />
+  <rect x="52" y="53" width="38" height="4" rx="2" fill="url(#accent)" />
+  <text x="105" y="62" fill="#8fa7ba" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" letter-spacing="3">POURIXA / SOFTWARE DEVELOPMENT</text>
+  <text x="50" y="143" fill="#f1f5f9" font-family="DejaVu Sans,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Pourya Mansouri</text>
+  <text x="54" y="190" fill="#b8cbd8" font-family="DejaVu Sans,Arial,sans-serif" font-size="24">Computer science student. Building through curiosity.</text>
+  <rect x="54" y="221" width="216" height="3" rx="1.5" fill="url(#accent)" />
+  <g transform="translate(890 55)">
+    <rect x="12" y="12" width="230" height="174" rx="12" fill="#070f1c" opacity=".35" />
+    <rect width="230" height="174" rx="12" fill="#102131" stroke="#3b5365" />
+    <path d="M0 38H230" stroke="#3b5365" />
+    <circle cx="20" cy="19" r="4" fill="#5eead4" />
+    <circle cx="35" cy="19" r="4" fill="#7dd3fc" opacity=".7" />
+    <circle cx="50" cy="19" r="4" fill="#8fa7ba" opacity=".5" />
+    <path d="M66 74L38 100L66 126M164 74L192 100L164 126M128 64L102 137" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M87 153H143" stroke="#3b5365" stroke-width="3" stroke-linecap="round" />
+  </g>
+</svg>
