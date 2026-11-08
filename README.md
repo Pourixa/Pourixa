@@ -1,57 +1,42 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Pourya Mansouri — Computer science student and software developer" width="100%" />
+  <img src="assets/profile-header.svg" alt="Pourya Mansouri — Computer science · Curiosity · Problem-solving" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Computer science at Université de Haute-Alsace · Mulhouse, France</strong><br />
-  Building web applications, exploring ideas, and learning through projects.
-</p>
+# Hi, I'm Pourya Mansouri
 
-<p align="center">
-  <a href="#selected-projects">Projects</a> ·
-  <a href="#technologies">Technologies</a> ·
-  <a href="#what-im-working-toward">Current focus</a>
-</p>
+**Computer science student at Université de Haute-Alsace · Mulhouse, France**
 
----
+I'm passionate about computers—understanding how they work, exploring what they can do, and using them to solve problems.
 
 ## About me
 
-I'm **Pourya**, a computer science student at **Université de Haute-Alsace (UHA)**. I build full-stack applications, from interactive React interfaces to APIs and relational databases.
+What draws me to computer science is the process of figuring things out: breaking a problem into smaller pieces, trying an approach, understanding why it fails, and gradually building a solution.
 
-My projects explore social feeds, real-time messaging, and browser games. I enjoy understanding how the pieces fit together: how data is modelled, how an interaction reaches the server, and how the interface stays in sync.
+I enjoy both the reasoning behind a program and the practical work of making it run. My interests extend across programming, algorithms, software development, and the systems that connect them.
 
-**I'm open to software development internships and student or part-time technical opportunities.**
+I'm studying **computer science at Université de Haute-Alsace (UHA)** and am open to **internships and student or part-time technical opportunities** where I can contribute, solve problems, and learn from others.
 
 ## Selected projects
 
-| Project | What I built | Technologies |
-| :--- | :--- | :--- |
-| **[Xenia](https://github.com/Pourixa/Xenia)** | A social application with posts, image uploads, following feeds, and activity notifications. | React · Express · PostgreSQL · Prisma |
-| **[Whisp](https://github.com/Pourixa/Whisp)** | A messaging application with direct and group conversations, persisted history, and real-time updates. | TypeScript · React · Socket.IO · PostgreSQL |
-| **[Where's Waldo?](https://github.com/Pourixa/Where-s-Waldo)** | A visual search game with image zoom, server-side guess validation, and per-scene leaderboards. | React · Express · PostgreSQL · Prisma |
-| **[Guitar Chord Memory Game](https://github.com/Pourixa/MemoryCard)** | A guitar-themed memory game with shuffled chord diagrams and score tracking. | React · JavaScript · CSS |
+| Project                                                               | What it explores                                                                                    |
+| :-------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+| [**Xenia**](https://github.com/Pourixa/Xenia)                         | A social application combining relational data, following feeds, image uploads, and notifications.  |
+| [**Whisp**](https://github.com/Pourixa/Whisp)                         | Real-time messaging: connecting live events, persistent conversations, and interface updates.       |
+| [**Where’s Waldo?**](https://github.com/Pourixa/Where-s-Waldo)        | A visual search game connecting image coordinates, server-side guess validation, and leaderboards.  |
+| [**Guitar Chord Memory Game**](https://github.com/Pourixa/MemoryCard) | A meeting point between programming and music, using chord diagrams, shuffling, and score tracking. |
 
-Each repository explains the implementation, local setup, and current limitations.
+Also explore [**Battleship**](https://github.com/Pourixa/battleship) for board modelling and game logic, or [**CVBuilder**](https://github.com/Pourixa/CVBuilder) for interactive document editing.
 
-**More work:** [CVBuilder](https://github.com/Pourixa/CVBuilder) — live CV editing and print layouts · [Battleship](https://github.com/Pourixa/battleship) — board modelling and browser game logic.
+## Technologies I've worked with
 
-## Technologies
-
-| Area | Tools and languages |
-| :--- | :--- |
-| Frontend | TypeScript, JavaScript, React, HTML, CSS, Tailwind CSS |
-| Backend & real-time | Node.js, Express, Socket.IO |
-| Data | PostgreSQL, Prisma |
-| Other languages | Python, C++, Java |
-| Development tools | Git, GitHub, Vite, Webpack |
-
-## What I'm working toward
-
-- **A clearer portfolio:** presenting my projects and the decisions behind them.
-- **More reliable applications:** improving validation, error handling, and automated testing.
-- **Professional experience:** bringing my project experience into a development team and learning from real-world constraints.
+| Area                    | Languages and tools                       |
+| :---------------------- | :---------------------------------------- |
+| Programming             | Python, C++, Java, JavaScript, TypeScript |
+| Web interfaces          | React, HTML, CSS, Tailwind CSS            |
+| Server-side development | Node.js, Express, Socket.IO               |
+| Databases               | PostgreSQL, Prisma                        |
+| Development tools       | Git, GitHub, Vite, Webpack                |
 
 ---
 
-Outside programming, I play **electric guitar**. The chord memory game is one place where those two interests meet.
+Outside computing, I play **electric guitar**. I enjoy having projects where my interests meet.
